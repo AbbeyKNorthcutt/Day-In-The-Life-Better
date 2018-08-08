@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: #96c0e8;
+  min-height: 100%;
+  margin: 0;
+}
+
+h1 {
+
+  color: #4b7247
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+p {
+
+}
+
+a {
+
+}
+.li
+{ color: #e0aee8
+list-style-type: square;
+font-family: fantasy;
+}
+
+nav {
+}
